@@ -7,7 +7,7 @@ const MyComponent = () => {
 
   return (
     <div>
-      <p>{t("NEWQUOTE.Radio_title")}</p>
+      <p>{t("")}</p>
     </div>
   );
 };
